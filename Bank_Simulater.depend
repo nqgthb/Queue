@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1477917036 source:e:\workspace\bank_simulater\main.cpp
+	"user.h"
+	"simulater.h"
+	"bankWindow.h"
+
+1477914813 e:\workspace\bank_simulater\user.h
+
+1477917205 e:\workspace\bank_simulater\simulater.h
+	"circularQueue.h"
+	"linklist.h"
+	"bankWindow.h"
+	<ctime>
+	<cstdlib>
+
+1477917309 e:\workspace\bank_simulater\circularqueue.h
+	"linkNode.h"
+	<iostream>
+
+1477309853 e:\workspace\bank_simulater\linknode.h
+
+1477396609 e:\workspace\bank_simulater\linklist.h
+	<iostream>
+
+1477916115 e:\workspace\bank_simulater\bankwindow.h
+	"user.h"
+
